@@ -14,14 +14,5 @@ The Football League Simulation project allows you to simulate multiple football 
 - Requests library for API calls
 - Tabulate library for table formatting
 
-## Skills Gained
-- Object-Oriented Programming (OOP)
-  - Classes and Objects
-  - Inheritance
-  - Polymorphism
-  - Abstraction
-- API Integration
-- Data Parsing and Manipulation
-- Simulation and Game Mechanics
-- Data Representation and Visualization
+
 
